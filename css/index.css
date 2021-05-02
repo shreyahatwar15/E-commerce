@@ -1,0 +1,29 @@
+footer{
+   
+  padding:10px 0;
+  background-color:black;
+  color:white;
+  bottom:0;
+  width:100%;
+  }
+  .color{
+      color:white;
+  }
+  .ycolor{
+      color:blue;
+  }
+  .panell{
+      border:hidden;
+  }
+  #content{
+      min-height:600px;
+  }
+  .remove_item_link{
+      color:#0000ff;
+  }
+  #content{
+    min-height: 600px;
+}
+#settings-container{
+    margin-bottom:10px;
+}
